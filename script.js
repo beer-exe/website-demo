@@ -1,4 +1,4 @@
-const API_BASE = 'http://115.77.92.93:5000/api/files';
+const API_BASE = 'https://115.77.92.93:5000/api/files';
 const maxFileSize = 1024 * 1024 * 1024; // 1GB
 const chunkSize = 5 * 1024 * 1024; // 5MB
 
